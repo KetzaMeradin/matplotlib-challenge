@@ -132,4 +132,7 @@ C (+/-)	70–79
 D (+/-)	60–69
 F (+/-)	< 60
 
-
+Source code and inspiration obtained from:
+https://github.com/jaysueno/pymaceuticals/blob/master/Pymaceuticals/Pymaceuticals_jay_v2_FINALSUBMISSION.ipynb
+https://github.com/dmilestone/matplotlib-challenge-cancer-drug-analysis/blob/master/Pymaceuticals_Final.ipynb
+https://github.com/benanza/Pymaceuticals/blob/master/Pymaceuticals.ipynb
